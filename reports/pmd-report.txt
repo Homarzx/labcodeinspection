@@ -1,0 +1,5 @@
+src/main/java/com/espol/edu/ec/labcodeinspection/App.java:4:	UseUtilityClass:	UseUtilityClass: This utility class has a non-private constructor
+src/main/java/com/espol/edu/ec/labcodeinspection/App.java:30:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/com/espol/edu/ec/labcodeinspection/App.java:83:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/com/espol/edu/ec/labcodeinspection/App.java:89:	UnusedAssignment:	UnusedAssignment: The value assigned to variable 'totalCost' is never used
+src/test/java/com/espol/edu/ec/labcodeinspection/AppTest.java:18:	JUnitAssertionsShouldIncludeMessage:	JUnitAssertionsShouldIncludeMessage: JUnit assertions should include a message
